@@ -1,4 +1,4 @@
-## Logistic Regression for Binary Classification – Project Summary
+## Logistic Regression and Decision Tree for Binary Classification – Project Summary
 
 This project applies **Logistic Regression**, **Decision Tree**, and **Random Forest** models on the **Pima Indians Diabetes Dataset** using a complete machine learning pipeline. Various experiments were conducted to evaluate model performance under different preprocessing and tuning conditions using `GridSearchCV`.
 
